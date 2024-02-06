@@ -1,21 +1,22 @@
 body {
-    background: rgb(168, 48, 192);
-    font: normal 15pt Arial;
+    background: rgb(168, 48, 192); /*We will have a purple background color that will be on the main screen*/
+    font: normal 15pt Arial; /*To improve the design we will use a 15pt Arial font.*/
 
 }
 
 header {
-    color: rgb(4, 7, 9);
-    text-align: center;
+    color: rgb(4, 7, 9); /*The header will be black in color with a string containing the value 'Age Identifier'*/
+    text-align: center; /*the text will be center aligned*/
 }
 
+/*section and its values*/
 section {
-    background-color: white;
-    border-radius: 10px;
-    padding: 15px;
-    width: 500px;
+    background-color: white; /*background color whit*/
+    border-radius: 10px; /*border radius with 10px for a better appearance*/
+    padding: 15px; /*padding with 15px for better visualization within the section*/
+    width: 500px; /*500px width for more visible spacing*/
     margin: auto;
-    box-shadow: 5px 5px 20px black;
+    box-shadow: 5px 5px 20px black; /*Shadow of the black color box and with a very beautiful style by the way*/
 }
 
 footer {
@@ -24,9 +25,9 @@ footer {
     font-style: italic;
 }
 
+/*stylizing the image to align with the section*/
 img {
     border-radius: 50%;
     width: 150px;
     height: 150px;
 }
-
