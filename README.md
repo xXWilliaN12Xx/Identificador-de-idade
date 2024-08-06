@@ -1,11 +1,14 @@
+<div align="center">
+
 # simple age identifier
 
+</div>
 
-## **Topics:**
+### **Topics:**
 <ol type="1">
   <li>Introduction;</li>
   <li>Website creation;</li>
- <li>website styling;</li>
+  <li>website styling;</li>
 </ol>
 
 ## **Context:**
@@ -21,16 +24,17 @@ When running this program, the user must first enter their year of birth in the 
 
 Choose the desired menu option:
 
-case 1:
+### case 1:
    We detected a man with the age of 'man's age' years.
    Photo of the man.
 
-case 2:
+### case 2:
   We detected a woman with the age of 'woman's age' years.
   Photo of the woman.
 
-If the information is not correct or the values ​​are not informed by the user then we will have the third case where the following value will be presented:
----
+### If the information is not correct or the values ​​are not informed by the user then we will have the third case where the following value will be presented:
 
-case 3: 
+#
+
+### case 3: 
  '[ERROR] Please check the data and try again!'
