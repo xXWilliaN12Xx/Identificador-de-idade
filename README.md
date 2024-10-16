@@ -44,13 +44,19 @@ Choose the desired menu option:
    We detected a man with the age of 'man's age' years.
    Photo of the man.
 
+#
+
 ### case 2:
   We detected a woman with the age of 'woman's age' years.
   Photo of the woman.
 
+#
+
 ### case3:
 
 If the information is not correct or the values ​​are not informed by the user then we will have the third case where the following value will be presented:
+
+#
 
 ### case 4: 
  '[ERROR] Please check the data and try again!'
